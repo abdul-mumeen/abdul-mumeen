@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdul-mumeen/static/css/main.073c9b0a.css",
+    "main.js": "/abdul-mumeen/static/js/main.53ad2ba2.js",
+    "static/js/787.e927cdac.chunk.js": "/abdul-mumeen/static/js/787.e927cdac.chunk.js",
+    "static/media/logo.svg": "/abdul-mumeen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abdul-mumeen/index.html",
+    "main.073c9b0a.css.map": "/abdul-mumeen/static/css/main.073c9b0a.css.map",
+    "main.53ad2ba2.js.map": "/abdul-mumeen/static/js/main.53ad2ba2.js.map",
+    "787.e927cdac.chunk.js.map": "/abdul-mumeen/static/js/787.e927cdac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53ad2ba2.js"
+  ]
+}
